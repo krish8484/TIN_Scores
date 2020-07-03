@@ -646,6 +646,8 @@ vcftools/relatedness2:
     fn: '*.relatedness2'
 vcftools/tstv_by_count:
     fn: '*.TsTv.count'
+zarp:
+    fn: 'zarp.tsv'
 vcftools/tstv_by_qual:
     fn: '*.TsTv.qual'
 vcftools/tstv_summary:
